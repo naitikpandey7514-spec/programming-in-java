@@ -5,7 +5,7 @@ public class data_type {
                 byte age = 20;  // 1bytes
                 short year = 2026; // 2 bytes
                 int marks = 95;       //integer 2bytes
-                long population = 8000000000L; //for long integer 8 bytes
+                long population = 8000000000L; // long integer 8 bytes
                 float price = 99.99f;  //decimal value 4 bytes
                 double pi = 3.14159;  // long decimal value 8 bytes
                 char grade = 'A';    //character 2 bytes

@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 // else if - it is used to check multiple 'conditions' and executed when the condition is true.
 
-// eg take a two input from the user and check the number is greater or mot
+// example take a two input from the user and check the number is greater or mot
 
 public class else_if {
     public static void main(String[] args){

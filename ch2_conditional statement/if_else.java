@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class if_else {
     public static void main(String[] args){
 
-        // if else - it  is a conditional statement used for decision -making. if block execute if the condition is true otherwise else block executed.
+        // if else - it  is a conditional statement used forLoop.java decision -making. if block execute if the condition is true otherwise else block executed.
 
         // eg
 
