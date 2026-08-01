@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/ch2_conditional statement" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch3_loops" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch4_function" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practice_question" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="17" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
