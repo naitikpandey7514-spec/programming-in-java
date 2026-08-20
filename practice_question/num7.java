@@ -1,4 +1,4 @@
 package PACKAGE_NAME;
 
-public class oops {
+public class num7 {
 }
