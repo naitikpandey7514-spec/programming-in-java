@@ -3,7 +3,7 @@
 import java.util.*;
 public class ex2{
     public static int printmultiply(int a , int b){
-        int multiply = a * b ;
+        int multiply = a * b;
         return multiply;
     }
     public static void main(String args[]){
